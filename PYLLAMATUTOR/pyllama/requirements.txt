@@ -1,0 +1,7 @@
+PyQt5
+llama-models
+transformers
+torch
+fairscale
+torchvision
+# tiktoken  # optional for token counting
